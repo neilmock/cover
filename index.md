@@ -9,6 +9,8 @@ _neilmock@gmail.com &middot; New Orleans, LA &middot; 615.618.2784_
 
 <br/>
 
+## Cover Letter
+
 Process is predictable but teams are people and people are fluid. Process can't function without people. I work primarly with people and secondarily with process.
 
 Technologies advance faster than companies are able to absorb them. I bring state of the art technology into teams and companies with minimal disruption.
