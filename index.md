@@ -7,8 +7,6 @@ layout: resume
 
 _neilmock@gmail.com &middot; New Orleans, LA &middot; 615.618.2784_
 
-<br/>
-
 ## Cover Letter
 
 Process is predictable but teams are people and people are fluid. Process can't function without people. I work primarly with people and secondarily with process.
