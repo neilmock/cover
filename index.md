@@ -9,18 +9,15 @@ _neilmock@gmail.com &middot; New Orleans, LA &middot; 615.618.2784_
 
 ## Cover Letter
 
-Process is predictable but teams are people and people are fluid. Process can't function without people. I work primarly with people and secondarily with process.
+I've been a Clojure enthusiast since first watching Rich Hickey's early "Are We
+There Yet?" presentation. At Second Chance Technologies (2CT), Clojure was our
+principal language and with a team of two we were able to rapidly prototype and
+ship a beta within a few months. Scaling the data pipeline to billions of
+records and building out the frontend between two people was a challenge and the
+Clojure ecosystem made it possible for us. It is by far the best technology I've
+used professionally, and I'm excited by the opportunity to work with both the
+language and other "Clojurians" again. Thank you for your consideration.
 
-Technologies advance faster than companies are able to absorb them. I bring state of the art technology into teams and companies with minimal disruption.
-
-Technologies are both fad and substance, and must be evaluated on the merits relative to the task at hand. 
-
-Company goals and project initiatives turn on a dime and successful teams adapt accordingly. I build systems and processes that anticipate such.
-
-I work primarily in distributed environments, and am versed in its benefits and challenges. 
-
-Above all I believe success is ad-hoc and requires diligence and perserverence. There are no silver bullets.
-
-----
+---
 
 _This document lives at [neilmock.com/cover](http://neilmock.com/cover/)_
